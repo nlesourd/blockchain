@@ -1,0 +1,9 @@
+pytest
+rsa
+time
+itertools
+hashlib
+customtkinter
+tkinter
+random
+string
